@@ -805,6 +805,10 @@ footer a:hover {
   }
 }
 
+surveyMonkeyInfo{
+margin-left:200
+}
+
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
